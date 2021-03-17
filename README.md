@@ -5,3 +5,5 @@ Atividade 3 para a disciplina de Tecnologias Backend da Especialização Lato Se
 Servidor backend em NodeJS usando ExpressJS servindo arquivos de frontend estáticos. 
 
 Os arquivos servidos são de uma [landing page criada usando bootstrap na atividade 1 da disciplina de Tecnologias Frontend](https://github.com/Denis-Tek/IFSUDESTEMG-PosWebMobile-TecnologiasFrontend-Atividade1)
+
+Explicações podem ser vistas em https://www.youtube.com/watch?v=X16UNSu1594
